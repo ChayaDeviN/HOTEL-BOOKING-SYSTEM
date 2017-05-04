@@ -1,0 +1,55 @@
+SQL> SELECT * FROM HOTEL;
+
+Mon Nov 21                                                                                 page    1
+                                ______HOTEL_MANAGEMENT_SYSTEM______
+
+       HID HNAME           ADDRESS                                                                  
+---------- --------------- ---------------                                                          
+      1211 MAYURA          HEBBAL                                                                   
+      1269 WAYNSVILLE      WASHINGTON                                                               
+      6969 CAROLINA        UNITED STATES                                                            
+      1521 MEMPHIS         UNITED STATES                                                            
+      2611 HUDSON          NEW YORK                                                                 
+      1278 REDMONT         BIRMINGHAM                                                               
+      1369 DOMINIC         ALASKA                                                                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        ______HOTELDB______
+
+7 rows selected.
+
+SQL> SPOOL OFF
