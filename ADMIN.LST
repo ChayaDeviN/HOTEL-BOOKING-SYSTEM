@@ -1,0 +1,53 @@
+SQL> SELECT * FROM ADMIN;
+
+Mon Nov 21                                                                                 page    1
+                                ______HOTEL_MANAGEMENT_SYSTEM______
+
+UNAME           PASSW                  HID                                                          
+--------------- --------------- ----------                                                          
+MAAHIR          MOHIUDDIN             1269                                                          
+NIRANJAN        DESAI                 2611                                                          
+CHINMAYA        NANDA                 6969                                                          
+DINA            KARAN                 1521                                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        ______ADMINDB_______
+
+SQL> SPOOL OFF
