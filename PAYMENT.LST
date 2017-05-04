@@ -1,0 +1,55 @@
+SQL> SELECT * FROM PAYMENT;
+
+Mon Nov 21                                                                                 page    1
+                                ______HOTEL_MANAGEMENT_SYSTEM______
+
+       CID CHECKOUT     NO_DAYS    TOTALAM                                                          
+---------- --------- ---------- ----------                                                          
+        15 02-OCT-16          3       9000                                                          
+        16 29-DEC-13          4       6000                                                          
+        19 30-AUG-15          2      12000                                                          
+        11 28-NOV-15          4       8000                                                          
+        12 30-SEP-15          3      12000                                                          
+        13 18-MAY-16          2      13000                                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        ______PAYMENTDB_____
+
+6 rows selected.
+
+SQL> SPOOL OFF
