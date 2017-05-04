@@ -1,0 +1,55 @@
+SQL> SELECT * FROM CUSTOMERS;
+
+Mon Nov 21                                                                                 page    1
+                                ______HOTEL_MANAGEMENT_SYSTEM______
+
+       CID CNAME                MOBNO CHECKIN       ROOMNO                                          
+---------- --------------- ---------- --------- ----------                                          
+        11 BINAY           9742190130 25-NOV-15        101                                          
+        12 SIDDHARTH       8884314849 28-SEP-15        707                                          
+        13 GAJARAJ         9019556677 16-MAY-16        303                                          
+        15 SURAJ           9341216349 30-SEP-16        606                                          
+        16 NAYAN           9632819158 26-DEC-13        105                                          
+        17 AVINASH         8553603787 05-FEB-12        404                                          
+        18 AKSHAY          8553094488 09-OCT-11        404                                          
+        19 MOHIT           9740668866 29-AUG-15        202                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      ______CUSTOMERSDB______
+
+8 rows selected.
+
+SQL> SPOOL OFF
