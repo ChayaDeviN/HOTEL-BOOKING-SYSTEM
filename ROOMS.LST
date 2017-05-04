@@ -1,0 +1,55 @@
+SQL> SELECT * FROM ROOMS;
+
+Mon Nov 21                                                                                 page    1
+                                ______HOTEL_MANAGEMENT_SYSTEM______
+
+    ROOMNO ROOM_TYPE                                                                                
+---------- ---------------                                                                          
+       101 SINGLE                                                                                   
+       202 DOUBLE                                                                                   
+       303 QUAD                                                                                     
+       102 SINGLE                                                                                   
+       105 QUAD                                                                                     
+       404 TRIPLE                                                                                   
+       505 KING                                                                                     
+       606 QUEEN                                                                                    
+       707 DOUBLE                                                                                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        ______ROOMSDB______
+
+9 rows selected.
+
+SQL> SPOOL OFF
